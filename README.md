@@ -21,7 +21,7 @@ def divide(x, y):
 
 print("Select operation.")
 print("1.Add")
-print("2.Subtract")
+print("2.Sub")
 print("3.Multiply")
 print("4.Divide")
 
@@ -53,5 +53,5 @@ while True:
           break
     
     else:
-        print("Invalid Input")
+        print("Дурыс емес зайбал")
         
